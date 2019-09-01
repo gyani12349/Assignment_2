@@ -2,7 +2,7 @@ class Euler_2
  {
  	public static void main(String args[])
  	{ 
- 		 a=1,b=2,c=0,sum=0;
+ 		 int a=1,b=2,c=0,sum=0;
  		for(int i=0;i<4000000;i++)
  		{
  			c=a+b;
