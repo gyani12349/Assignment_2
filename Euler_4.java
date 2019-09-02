@@ -9,7 +9,7 @@ class Euler_4
  	  {
  	  	prod=i*j;
  	  	tprod=i*j;
-  		while(tprod>0)
+  		while(tprod!=0)
   		{
   			r=tprod%10;
   			rev=rev*10+r;
